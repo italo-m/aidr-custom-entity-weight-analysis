@@ -68,7 +68,7 @@ A metodologia experimental consistiu em isolar a pontuação base da expressão 
 
 ---
 
-## 🧮 Modelo Matemático e Fórmula
+## Modelo Matemático e Fórmula
 
 A partir da consolidação dos testes empíricos, formaliza-se a equação do motor de avaliação do Score para Custom Entities no CrowdStrike AIDR:
 
